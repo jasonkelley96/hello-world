@@ -1,4 +1,4 @@
 # Hello World
 Just another repository
 
-[Editing README]
+This repository is created for testing purposes only
